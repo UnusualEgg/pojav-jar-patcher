@@ -1,0 +1,10 @@
+[submodule "subprojects/libzip"]
+	path = subprojects/libzip
+	url = https://github.com/nih-at/libzip.git
+[submodule "cwalk"]
+	path = subprojects/cwalk
+	url = git@github.com:likle/cwalk.git
+	branch = stable
+[submodule "subprojects/json-c"]
+	path = subprojects/json-c
+	url = https://github.com/UnusualEgg/json-c.git
